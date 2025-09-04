@@ -6,7 +6,7 @@ Hello 👋 I'm Joshua
 ---
 
 ### What I’m learning
-- **React** skills and exploring **NextJS**
+- **React** skills and exploring **InertiaJS** & **Laravel**
 - Strengthening **TypeScript** fundamentals
 - Working on side projects & hoping to contribute to some open-source code
   
