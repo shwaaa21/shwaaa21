@@ -1,6 +1,6 @@
 Hello 👋 I'm Joshua
 
-💻 Junior Software Developer
+💻 Junior Software Developer  
 🌍 Sheffield, UK
 
 ---
