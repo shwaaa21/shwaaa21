@@ -1,6 +1,6 @@
 Hello 👋 I'm Josh
 
-💻 Software Developer | Fullstack — TypeScript, PHP, AWS
+💻 Software Developer | Fullstack — TypeScript, PHP, AWS  
 🌍 Yorkshire, UK
 
 ---
