@@ -10,9 +10,9 @@ Most of my day-to-day code lives in private repos, so here's the kind of thing I
 - **Auth & security**: JWT identity verification, email verification flows, ACLs, secrets management, input sanitisation
 - **Client-side script security**: tracing which third-party scripts run on checkout and payment pages via referrer chains and frames
 - **Frontend**: React + TypeScript dashboards
-- **Delivery**: PR-based workflow, CI/CD on AWS and Bitbucket Pipelines
+- **Cloud & delivery**: AWS (compute, containers, serverless, queues, storage, secrets, monitoring), Docker Compose environments, PR-based workflow and CI/CD pipelines
 
-**Stack:** PHP · TypeScript · React · JavaScript · MySQL · Selenium · Playwright · Sass · AWS · Git
+**Stack:** PHP · TypeScript · React · JavaScript · MySQL · Selenium · Playwright · Sass · AWS · Docker · Git
 
 **Currently:** in the discovery phase with Go, Rust and Laravel/Inertia, building with AI coding agents (Claude and OpenCode), and running [Omarchy](https://omarchy.org) on my own machine. Linux ftw!
 
